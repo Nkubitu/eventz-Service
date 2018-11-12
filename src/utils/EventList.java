@@ -1,0 +1,11 @@
+package utils;
+
+/**
+ * Created by elainemnkubitu on 11/11/18.
+ */
+public enum EventList {
+    WEDDING,BABYSHOWER,BIRTHDAY,SENDOFF,PHOTOSHOOT,CAMPING,BACHELORS,GRADUATION,CONFERENCE,ENDYEAROARTY,
+    REUNION,FUNERAL
+
+}
+
