@@ -15,5 +15,5 @@ public interface adminService {
     public Set<Seeker> getAllSeekers();
     public void suspendAccount();
     public Set<String> getAllServiceProviders(String service);
-    
+
 }
